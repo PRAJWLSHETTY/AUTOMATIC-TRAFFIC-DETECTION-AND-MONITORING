@@ -2,7 +2,7 @@
 The system takes video footage from a video as input and provides statistics like the count of vehicles and an average estimated speed of vehicles on the highway. 
 
 The system internally uses YOLO object detection algorithm for vehicle detection, followed by, Centroid Tracking algorithm for tracking the detected vehicles.
-
+The above project is referred from (https://github.com/azhartalha/Traffic-Survalance-with-Computer-Vision-and-Deep-Learning)
 _____________________________________________________________________________________________________________________________
 
 # Instructions for running the project
